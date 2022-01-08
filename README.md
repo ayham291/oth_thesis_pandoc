@@ -18,8 +18,9 @@ easier to write the thesis.
 
 ## Requirements
 
-if you use vscode go to [this repo by kahles17](https://github.com/kahles17/pandoc_oth)
+If you use vscode go to [this repo by kahles17](https://github.com/kahles17/pandoc_oth)
 
+**you need to download these package yourself:**
 + [pandoc]
 + [pandoc-crossref]
 + [LaTeX]
@@ -28,7 +29,7 @@ and creating an texmf folder in the home directory of the user with the
 included OTH class and style/logos files.
 
 or you can just run the makefile/install-script with the following command and it will take
-care of everything:
+care of everything (copying the necessary files):
 
 ```bash
     bash install.sh "or if you have make installed"
@@ -69,6 +70,6 @@ repo](https://github.com/ayham291/dotfiles/)
 
 # If you use windows
 
-*curruntly if you use windows you are out of luck here.*
+*currently if you use windows you are out of luck here.*
 
 try [kahles17](https://github.com/kahles17/pandoc_oth) version
