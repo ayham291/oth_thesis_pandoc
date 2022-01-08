@@ -1,3 +1,11 @@
+#### Table of contents
+
+- [Bachelor/Master Thesis template with pandoc [OTH Regensburg]](#bachelormaster-thesis-template-with-pandoc-oth-regensburg)
+  - [Introduction](#introduction)
+  - [Requirements](#requirements)
+  - [How to Compile](#how-to-compile)
+- [If you use windows](#if-you-use-windows)
+
 # Bachelor/Master Thesis template with pandoc [OTH Regensburg]
 
 ## Introduction
@@ -10,7 +18,7 @@ easier to write the thesis.
 
 ## Requirements
 
-if you use vscode go to [this repo](https://github.com/kahles17/pandoc_oth)
+if you use vscode go to [this repo by kahles17](https://github.com/kahles17/pandoc_oth)
 
 + [pandoc]
 + [pandoc-crossref]
@@ -59,7 +67,7 @@ add it to your vimrc/init.vim:
 for all of my dotfiles you can go to my [dotfiles
 repo](https://github.com/ayham291/dotfiles/)
 
-## If you use windows
+# If you use windows
 
 *curruntly if you use windows you are out of luck here.*
 
